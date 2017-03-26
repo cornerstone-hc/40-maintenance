@@ -44,5 +44,10 @@ To sync the folder, type:
 encfs ~/Resilio\ Sync/Cornerstone/ ~/cornerstone 
 ```
 
+To unmount the volume in this case, you would [enter](https://www.howtoforge.com/tutorial/encrypt-your-data-with-encfs-debian-jessie/):
+
+```
+fusermount -u ~/cornerstone
+```
 
 
