@@ -23,7 +23,9 @@ To de-encrypt, install encf:
 sudo apt install encfs  
 ```
 
-Look at the documentation for encf - there is a line to type in to de-encrypt.
+Look at the documentation for encf - there is a line to type in to de-encrypt - see here:
+
+https://www.howtoforge.com/tutorial/encrypt-your-data-with-encfs-on-ubuntu/
 
 
 
