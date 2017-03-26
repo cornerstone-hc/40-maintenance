@@ -17,4 +17,13 @@ http://localhost:8888/gui/
 
 Click on the down arrow and click 'enter key'.
 
-To de-encrypt, go to 
+To de-encrypt, install encf:
+
+```
+sudo apt install encfs  
+```
+
+Look at the documentation for encf - there is a line to type in to de-encrypt.
+
+
+
