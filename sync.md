@@ -14,3 +14,7 @@ systemctl --user start  resilio-sync
 Then navigate to here:
 
 http://localhost:8888/gui/
+
+Click on the down arrow and click 'enter key'.
+
+To de-encrypt, go to 
